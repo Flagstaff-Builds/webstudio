@@ -48,7 +48,7 @@
     "zod": "^3.24.2"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "^1.1.0",
+    "@cloudflare/vite-plugin": "^1.6.0",
     "@netlify/vite-plugin-react-router": "^1.0.1",
     "@react-router/dev": "^7.5.3",
     "@react-router/fs-routes": "^7.5.3",
