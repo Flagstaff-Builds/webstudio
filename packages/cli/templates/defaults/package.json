@@ -8,9 +8,9 @@
     "typecheck": "tsgo --noEmit"
   },
   "dependencies": {
-    "@remix-run/node": "2.16.5",
-    "@remix-run/react": "2.16.5",
-    "@remix-run/server-runtime": "2.16.5",
+    "@remix-run/node": "2.17.4",
+    "@remix-run/react": "2.17.4",
+    "@remix-run/server-runtime": "2.17.4",
     "@webstudio-is/image": "0.0.0-webstudio-version",
     "@webstudio-is/react-sdk": "0.0.0-webstudio-version",
     "@webstudio-is/sdk": "0.0.0-webstudio-version",
@@ -27,7 +27,7 @@
     "@types/react": "^18.2.70",
     "@types/react-dom": "^18.2.25",
     "typescript": "5.8.2",
-    "vite": "^6.3.4"
+    "vite": "^6.4.1"
   },
   "engines": {
     "node": ">=20.0.0"
